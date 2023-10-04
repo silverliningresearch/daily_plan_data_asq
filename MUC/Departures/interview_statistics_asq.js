@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-07-03",
         "quota_id": "LH-AGP",
         "Number of interviews": 3,
-        "download_time": "04-10-2023 09:38:50"
+        "download_time": "04-10-2023 15:46:27"
     },
     {
         "InterviewDate": "2023-07-03",
@@ -1107,8 +1107,38 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "EN-CLJ",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "EN-FLR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "LH-AMS",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "LH-BER",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "LH-DUB",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "LH-ICN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "LH-LHR",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-04",
@@ -1122,12 +1152,37 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "LH-TSR",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "NH-HND",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "SQ-SIN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "TG-BKK",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "UA-EWR",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "UA-ORD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "UA-SFO",
+        "Number of interviews": 1
     }
 ] `;
