@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-07-03",
         "quota_id": "LH-AGP",
         "Number of interviews": 3,
-        "download_time": "06-10-2023 10:31:48"
+        "download_time": "06-10-2023 16:39:29"
     },
     {
         "InterviewDate": "2023-07-03",
@@ -1184,5 +1184,75 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-04",
         "quota_id": "UA-SFO",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-ATH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-BCN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-BRU",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-BUD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-CDG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-CTA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-DBV",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-FCO",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-HER",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-IBZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-MAD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-MLA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-PRG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-06",
+        "quota_id": "LH-VLC",
+        "Number of interviews": 3
     }
 ] `;
