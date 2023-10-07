@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-07-03",
         "quota_id": "LH-AGP",
         "Number of interviews": 3,
-        "download_time": "07-10-2023 04:54:57"
+        "download_time": "07-10-2023 11:02:39"
     },
     {
         "InterviewDate": "2023-07-03",
@@ -1253,6 +1253,86 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2023-10-06",
         "quota_id": "LH-VLC",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "A3-HER",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "A3-SKG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "AC-YYZ",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "BT-TLL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-BRE",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-BUD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-HAM",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-HEL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-JFK",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-LAX",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-MAN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-ORD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LH-PMI",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LO-WAW",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "LX-ZRH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "OS-VIE",
         "Number of interviews": 3
     }
 ] `;
