@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-07-03",
         "quota_id": "LH-AGP",
         "Number of interviews": 3,
-        "download_time": "27-11-2023 02:15:35"
+        "download_time": "27-11-2023 03:11:56"
     },
     {
         "InterviewDate": "2023-07-03",
@@ -1899,5 +1899,185 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-11-18",
         "quota_id": "LH-WRO",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-21",
+        "quota_id": "BJ-TUN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-21",
+        "quota_id": "EK-DXB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-11-21",
+        "quota_id": "SV-JED",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-22",
+        "quota_id": "LH-HND",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "BT-RIX",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "EN-BLQ",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "KM-MLA",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "LH-BIO",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "LH-CGN",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "LH-HAM",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "LH-MAD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "LH-OSL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "SN-BRU",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "LH-BER",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "LH-DEL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "LH-DUS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "LH-EDI",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "LH-HND",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "LH-PMO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "UA-IAD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "UA-IAH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "AF-CDG",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "DE-LPA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "FI-KEF",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "KL-AMS",
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "LH-BIO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "LH-CPH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "LH-DUS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "LH-FRA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "LH-HAM",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "LH-HND",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "LH-JFK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "UA-IAD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "VY-PMI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "X3-LPA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "XQ-ESB",
+        "Number of interviews": 3
     }
 ] `;
