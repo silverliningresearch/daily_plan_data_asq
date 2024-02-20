@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "20-02-2024 19:56:25"
+        "download_time": "20-02-2024 22:05:34"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -2273,7 +2273,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-02-18",
         "quota_id": "6E-BLR",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-18",
@@ -2293,7 +2293,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-02-18",
         "quota_id": "KU-KWI",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-18",
@@ -2303,7 +2303,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-02-18",
         "quota_id": "ME-BEY",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-18",
@@ -2318,7 +2318,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-02-18",
         "quota_id": "SQ-SIN",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-18",
@@ -2328,17 +2328,22 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-02-18",
         "quota_id": "SV-RUH",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-18",
         "quota_id": "XY-JED",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-19",
         "quota_id": "EK-GLA",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-20",
+        "quota_id": "EK-BKK",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-20",
@@ -2362,7 +2367,17 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-02-20",
+        "quota_id": "EK-TRV",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-02-20",
         "quota_id": "EK-VIE",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-02-21",
+        "quota_id": "EK-JED",
+        "Number of interviews": 1
     }
 ] `;
