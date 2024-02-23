@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-01-05",
         "quota_id": "BA-LHR",
         "Number of interviews": 8,
-        "download_time": "23-02-2024 07:07:05"
+        "download_time": "23-02-2024 09:16:20"
     },
     {
         "InterviewDate": "2023-01-05",
@@ -4202,8 +4202,33 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-02-23",
+        "quota_id": "EN-GRZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-ATH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-BCN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-BIO",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-02-23",
         "quota_id": "LH-BRE",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-CDG",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-02-23",
@@ -4217,7 +4242,42 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-02-23",
+        "quota_id": "LH-FRA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-HEL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-OTP",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-PMO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LH-SOF",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-02-23",
         "quota_id": "LH-VIE",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "LO-WAW",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-02-23",
+        "quota_id": "UA-EWR",
+        "Number of interviews": 2
     }
 ] `;
