@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "1/2/2024",
         "quota_id": "EK-COK",
         "Number of interviews": 2,
-        "download_time": "25-02-2024 13:27:57"
+        "download_time": "25-02-2024 15:37:10"
     },
     {
         "InterviewDate": "1/2/2024",
@@ -847,7 +847,27 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "25/2/2024",
+        "quota_id": "0-DMM",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "0-JED",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "25/2/2024",
         "quota_id": "EK-ALA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "EK-AMD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "EK-BCN",
         "Number of interviews": 1
     },
     {
@@ -857,8 +877,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "25/2/2024",
-        "quota_id": "EK-BKK",
+        "quota_id": "EK-BGW",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "EK-BKK",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "EK-BOM",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "25/2/2024",
@@ -868,7 +898,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "25/2/2024",
         "quota_id": "EK-CCU",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "25/2/2024",
@@ -877,13 +907,23 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "25/2/2024",
+        "quota_id": "EK-COK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "25/2/2024",
         "quota_id": "EK-CPT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "25/2/2024",
-        "quota_id": "EK-DPS",
+        "quota_id": "EK-DMM",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "EK-DPS",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "25/2/2024",
@@ -893,12 +933,12 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "25/2/2024",
         "quota_id": "EK-IAD",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "25/2/2024",
         "quota_id": "EK-JED",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "25/2/2024",
@@ -907,13 +947,23 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "25/2/2024",
+        "quota_id": "EK-KUL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "25/2/2024",
         "quota_id": "EK-KWI",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "25/2/2024",
-        "quota_id": "EK-MAN",
+        "quota_id": "EK-LHR",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "EK-MAN",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "25/2/2024",
@@ -927,13 +977,33 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "25/2/2024",
+        "quota_id": "EK-SIN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "EK-SYD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "25/2/2024",
         "quota_id": "EK-TPE",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "25/2/2024",
         "quota_id": "EK-TUN",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "FZ-KTM",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "25/2/2024",
+        "quota_id": "FZ-MLE",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "25/2/2024",
