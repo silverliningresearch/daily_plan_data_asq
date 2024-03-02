@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "02-03-2024 10:56:21"
+        "download_time": "02-03-2024 13:05:38"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -2757,8 +2757,23 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-02",
-        "quota_id": "CZ-SZX",
+        "quota_id": "AF-CDG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "AY-HEL",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "CZ-SZX",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "EK-BGW",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-02",
@@ -2772,8 +2787,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-02",
+        "quota_id": "EK-IST",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-03-02",
         "quota_id": "EK-KUL",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "EK-LGW",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-03-02",
@@ -2784,5 +2809,30 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-03-02",
         "quota_id": "EK-SFO",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "FZ-TAS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "KL-AMS",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "SG-ATQ",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "SV-JED",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "XQ-AYT",
+        "Number of interviews": 1
     }
 ] `;
