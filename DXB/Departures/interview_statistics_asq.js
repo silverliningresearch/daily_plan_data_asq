@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "03-03-2024 03:59:21"
+        "download_time": "03-03-2024 06:08:35"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -2728,11 +2728,31 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-03-01",
         "quota_id": "HY-TAS",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-01",
         "quota_id": "KC-NQZ",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-01",
+        "quota_id": "LO-WAW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-01",
+        "quota_id": "PA-ISB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-01",
+        "quota_id": "PK-ISB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-01",
+        "quota_id": "PK-LHE",
         "Number of interviews": 1
     },
     {
@@ -2779,6 +2799,11 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-03-02",
         "quota_id": "EK-BGW",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-03-02",
+        "quota_id": "EK-CDG",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-02",
@@ -2857,8 +2882,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-03",
-        "quota_id": "BA-LHR",
+        "quota_id": "6E-CCJ",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-03",
+        "quota_id": "BA-LHR",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-03-03",
+        "quota_id": "BI-LHR",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-03",
@@ -2867,12 +2902,32 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-03",
-        "quota_id": "LX-ZRH",
+        "quota_id": "FZ-CTA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-03",
+        "quota_id": "FZ-NAP",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-03",
+        "quota_id": "LX-ZRH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-03",
         "quota_id": "MU-KMG",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-03",
+        "quota_id": "RQ-KBL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-03-03",
+        "quota_id": "XQ-ADB",
         "Number of interviews": 1
     }
 ] `;
