@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "07-03-2024 06:25:23"
+        "download_time": "07-03-2024 08:34:38"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -2712,8 +2712,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-01",
+        "quota_id": "8D-CMB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-01",
         "quota_id": "AI-BOM",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-01",
+        "quota_id": "AT-CMN",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-01",
@@ -2743,17 +2753,27 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-03-01",
         "quota_id": "PA-ISB",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-01",
+        "quota_id": "PA-LHE",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-01",
+        "quota_id": "PA-MUX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-01",
         "quota_id": "PK-ISB",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-01",
         "quota_id": "PK-LHE",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-01",
@@ -3337,6 +3357,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-07",
+        "quota_id": "EK-ARN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-07",
         "quota_id": "EK-CCU",
         "Number of interviews": 4
     },
@@ -3353,6 +3378,11 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-03-07",
         "quota_id": "EK-PEW",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-07",
+        "quota_id": "EK-SFO",
         "Number of interviews": 2
     }
 ] `;
