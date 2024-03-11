@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "11-03-2024 11:21:15"
+        "download_time": "11-03-2024 13:30:48"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -3637,6 +3637,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-10",
+        "quota_id": "A3-ATH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-10",
         "quota_id": "B2-MSQ",
         "Number of interviews": 1
     },
@@ -3653,6 +3658,11 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-03-10",
         "quota_id": "CZ-CAN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-10",
+        "quota_id": "ER-ISB",
         "Number of interviews": 1
     },
     {
@@ -3687,6 +3697,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-10",
+        "quota_id": "IF-BGW",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-10",
         "quota_id": "IX-GOI",
         "Number of interviews": 1
     },
@@ -3707,13 +3722,33 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-03-10",
+        "quota_id": "LO-WAW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-10",
+        "quota_id": "PA-KHI",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-10",
+        "quota_id": "PK-KHI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-10",
         "quota_id": "PK-SKT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-10",
-        "quota_id": "SG-AMD",
+        "quota_id": "QS-PRG",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-10",
+        "quota_id": "SG-AMD",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-10",
@@ -3723,6 +3758,16 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-03-10",
         "quota_id": "TK-SAW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-10",
+        "quota_id": "UK-BOM",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-10",
+        "quota_id": "XY-MED",
         "Number of interviews": 1
     },
     {
