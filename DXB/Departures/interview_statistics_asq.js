@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "22-04-2024 08:51:04"
+        "download_time": "22-04-2024 10:59:51"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -3943,17 +3943,52 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-04-06",
         "quota_id": "AI-DEL",
-        "Number of interviews": 1
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-04-06",
         "quota_id": "EK-BRU",
-        "Number of interviews": 4
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-04-06",
+        "quota_id": "EK-CCU",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-04-06",
+        "quota_id": "EK-MRU",
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-04-06",
         "quota_id": "EK-RUH",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-04-06",
+        "quota_id": "KU-KWI",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-04-06",
+        "quota_id": "QR-DOH",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-04-06",
+        "quota_id": "SV-JED",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-04-06",
+        "quota_id": "SV-RUH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-06",
+        "quota_id": "WY-MCT",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-04-15",
@@ -3977,7 +4012,17 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-04-22",
+        "quota_id": "EK-CGK",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-04-22",
         "quota_id": "EK-LIS",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-04-22",
+        "quota_id": "EK-PEK",
+        "Number of interviews": 3
     }
 ] `;
