@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/02/2024",
         "quota_id": "EK-COK",
         "Number of interviews": 2,
-        "download_time": "24-04-2024 01:08:52"
+        "download_time": "24-04-2024 03:17:38"
     },
     {
         "InterviewDate": "01/02/2024",
@@ -2547,6 +2547,31 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "23/04/2024",
+        "quota_id": "EK-GRU",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "23/04/2024",
+        "quota_id": "EK-HKT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "23/04/2024",
+        "quota_id": "EK-IKA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "23/04/2024",
+        "quota_id": "EK-IST",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "23/04/2024",
+        "quota_id": "EK-KUL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "23/04/2024",
         "quota_id": "EK-LAX",
         "Number of interviews": 2
     },
@@ -2558,6 +2583,11 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "23/04/2024",
         "quota_id": "EK-LHR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "23/04/2024",
+        "quota_id": "EK-MLE",
         "Number of interviews": 2
     },
     {
@@ -2589,6 +2619,46 @@ let interview_statistics_asq = `[
         "InterviewDate": "24/02/2024",
         "quota_id": "UA-EWR",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "0-CMB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "EK-BLQ",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "EK-BRU",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "EK-CDG",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "EK-GLA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "EK-KHI",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "EK-MLE",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "24/04/2024",
+        "quota_id": "EK-STN",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "25/02/2024",
