@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-01-06",
         "quota_id": "BA-LHR",
         "Number of interviews": 4,
-        "download_time": "06-05-2024 14:12:43"
+        "download_time": "06-05-2024 16:22:52"
     },
     {
         "InterviewDate": "2024-01-06",
@@ -3157,17 +3157,77 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-05-06",
+        "quota_id": "EW-CGN",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "EW-HAM",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-06",
         "quota_id": "FR-BGY",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-06",
+        "quota_id": "FR-BLQ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "FR-MAD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "FR-MXP",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-05-06",
         "quota_id": "FR-PMI",
-        "Number of interviews": 9
+        "Number of interviews": 15
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "FR-RHO",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "FR-RIX",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-06",
         "quota_id": "IB-MAD",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "KL-AMS",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "LG-LUX",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "LX-ZRH",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "OS-ATH",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "OS-DUS",
         "Number of interviews": 5
     },
     {
@@ -3178,6 +3238,16 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-05-06",
         "quota_id": "OS-ZRH",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "OS-ZUERICH",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-06",
+        "quota_id": "TP-LIS",
+        "Number of interviews": 6
     }
 ] `;
