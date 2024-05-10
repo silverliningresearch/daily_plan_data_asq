@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/02/2024",
         "quota_id": "EK-COK",
         "Number of interviews": 2,
-        "download_time": "10-05-2024 22:08:50"
+        "download_time": "11-05-2024 00:19:25"
     },
     {
         "InterviewDate": "01/02/2024",
@@ -2077,6 +2077,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "10/05/2024",
+        "quota_id": "EK-AMM",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/05/2024",
         "quota_id": "EK-AMS",
         "Number of interviews": 2
     },
@@ -2107,12 +2112,27 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "10/05/2024",
+        "quota_id": "EK-DAC",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/05/2024",
         "quota_id": "EK-DPS",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "10/05/2024",
+        "quota_id": "EK-FCO",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/05/2024",
         "quota_id": "EK-FRA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/05/2024",
+        "quota_id": "EK-GRU",
         "Number of interviews": 2
     },
     {
@@ -2123,6 +2143,11 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "10/05/2024",
         "quota_id": "EK-KHI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/05/2024",
+        "quota_id": "EK-KUL",
         "Number of interviews": 2
     },
     {
@@ -2143,7 +2168,12 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "10/05/2024",
         "quota_id": "EK-MNL",
-        "Number of interviews": 3
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "10/05/2024",
+        "quota_id": "EK-NBO",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "10/05/2024",
@@ -2269,6 +2299,11 @@ let interview_statistics_asq = `[
         "InterviewDate": "11/03/2024",
         "quota_id": "WB-KGL",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "11/05/2024",
+        "quota_id": "EK-BLR",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "12/01/2024",
