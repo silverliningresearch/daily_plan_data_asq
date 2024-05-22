@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-01-06",
         "quota_id": "BA-LHR",
         "Number of interviews": 4,
-        "download_time": "22-05-2024 09:19:48"
+        "download_time": "22-05-2024 11:31:04"
     },
     {
         "InterviewDate": "2024-01-06",
@@ -3744,5 +3744,75 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-05-21",
         "quota_id": "PE-ACH",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "A3-ATH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "BA-LHR",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "EW-BER",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "EW-DUS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "FR-BLQ",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "FR-BVA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "FR-MAD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "FR-STN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "OS-IAD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "OS-PRN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "OS-RAK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "OS-TLV",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "PC-AYT",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-05-22",
+        "quota_id": "PE-ACH",
+        "Number of interviews": 1
     }
 ] `;
