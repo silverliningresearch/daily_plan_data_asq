@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-01-06",
         "quota_id": "BA-LHR",
         "Number of interviews": 4,
-        "download_time": "28-05-2024 12:26:06"
+        "download_time": "28-05-2024 14:37:26"
     },
     {
         "InterviewDate": "2024-01-06",
@@ -4027,6 +4027,21 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-05-28",
+        "quota_id": "AC-LHR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "CI-TPE",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "FR-LIS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-28",
         "quota_id": "J2-GYD",
         "Number of interviews": 2
     },
@@ -4034,6 +4049,31 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-05-28",
         "quota_id": "OS-AGP",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "OS-BRI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "OS-CFU",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "OS-FRA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "OS-GRZ",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "OS-KLU",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-28",
@@ -4052,12 +4092,22 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-05-28",
-        "quota_id": "OS-YUL",
+        "quota_id": "OS-TGD",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "OS-YUL",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-28",
         "quota_id": "OU-ZAG",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-28",
+        "quota_id": "VF-SAW",
+        "Number of interviews": 6
     }
 ] `;
