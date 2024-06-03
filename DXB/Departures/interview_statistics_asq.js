@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "03-06-2024 04:12:14"
+        "download_time": "03-06-2024 06:23:03"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -4632,6 +4632,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-06-01",
+        "quota_id": "EK-KUL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-01",
         "quota_id": "EK-KWI",
         "Number of interviews": 10
     },
@@ -4643,6 +4648,11 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2024-06-01",
         "quota_id": "EK-ORD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-06-01",
+        "quota_id": "EK-TRV",
         "Number of interviews": 4
     },
     {
@@ -4722,12 +4732,67 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-06-02",
+        "quota_id": "6E-HYD",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-06-02",
         "quota_id": "FZ-BSR",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-02",
+        "quota_id": "KQ-NBO",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-06-02",
+        "quota_id": "LX-ZRH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-02",
+        "quota_id": "QR-DOH",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-06-02",
         "quota_id": "XY-JED",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-06-03",
+        "quota_id": "EK-AMS",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-06-03",
+        "quota_id": "EK-LCA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-06-03",
+        "quota_id": "EK-LHE",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-06-03",
+        "quota_id": "EK-NCL",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-06-03",
+        "quota_id": "LX-ZRH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-03",
+        "quota_id": "RQ-KBL",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-06-03",
+        "quota_id": "SG-ATQ",
         "Number of interviews": 9
     }
 ] `;
