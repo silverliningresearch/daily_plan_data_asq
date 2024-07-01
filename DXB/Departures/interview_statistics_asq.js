@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-10-06",
         "quota_id": "EK-BKK",
         "Number of interviews": 10,
-        "download_time": "01-07-2024 09:38:13"
+        "download_time": "01-07-2024 11:49:28"
     },
     {
         "InterviewDate": "2023-10-06",
@@ -5027,18 +5027,38 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-07-01",
+        "quota_id": "EK-AMM",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-07-01",
+        "quota_id": "EK-BLR",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-07-01",
         "quota_id": "EK-BNE",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-07-01",
+        "quota_id": "EK-CAI",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-07-01",
         "quota_id": "EK-CGK",
-        "Number of interviews": 2
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-01",
         "quota_id": "EK-DAC",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-07-01",
+        "quota_id": "EK-GVA",
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-01",
@@ -5049,5 +5069,10 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-01",
         "quota_id": "EK-SIN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-07-01",
+        "quota_id": "FZ-IKA",
+        "Number of interviews": 5
     }
 ] `;
