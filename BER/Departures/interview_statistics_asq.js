@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-01-08",
         "quota_id": "BA-LHR",
         "Number of interviews": 3,
-        "download_time": "19-08-2024 16:10:15"
+        "download_time": "19-08-2024 16:43:06"
     },
     {
         "InterviewDate": "2024-01-08",
@@ -3397,17 +3397,62 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2024-08-19",
+        "quota_id": "BA-LHR",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "EC-BCN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "EC-LONDON LUTON",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-19",
         "quota_id": "EC-OLB",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-08-19",
         "quota_id": "LH-FRA",
-        "Number of interviews": 5
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-08-19",
         "quota_id": "LH-MUC",
-        "Number of interviews": 2
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "LX-ZRH",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "OS-VIE",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "SR-BEY",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "SR-RHO",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "U2-BRS",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-08-19",
+        "quota_id": "U2-LTN",
+        "Number of interviews": 3
     }
 ] `;
