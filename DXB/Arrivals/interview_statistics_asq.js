@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/02/2024",
         "quota_id": "EK-COK",
         "Number of interviews": 2,
-        "download_time": "06-09-2024 06:33:26"
+        "download_time": "06-09-2024 07:44:25"
     },
     {
         "InterviewDate": "01/02/2024",
@@ -1997,12 +1997,47 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "06/09/2024",
+        "quota_id": "0-PEK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "06/09/2024",
         "quota_id": "0-SYD",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "06/09/2024",
+        "quota_id": "EK-AMD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/09/2024",
+        "quota_id": "EK-BCN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "06/09/2024",
+        "quota_id": "EK-BKK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/09/2024",
         "quota_id": "EK-CAN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/09/2024",
+        "quota_id": "EK-DPS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/09/2024",
+        "quota_id": "EK-DUS",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "06/09/2024",
+        "quota_id": "EK-FRA",
         "Number of interviews": 2
     },
     {
@@ -2032,6 +2067,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "06/09/2024",
+        "quota_id": "EK-PER",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/09/2024",
         "quota_id": "EK-SIN",
         "Number of interviews": 2
     },
@@ -2039,6 +2079,11 @@ let interview_statistics_asq = `[
         "InterviewDate": "06/09/2024",
         "quota_id": "EK-SYD",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "06/09/2024",
+        "quota_id": "EK-TRV",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "06/09/2024",
