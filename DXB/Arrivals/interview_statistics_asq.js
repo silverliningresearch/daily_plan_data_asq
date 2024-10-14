@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/02/2024",
         "quota_id": "EK-COK",
         "Number of interviews": 2,
-        "download_time": "14-10-2024 14:06:14"
+        "download_time": "14-10-2024 15:16:47"
     },
     {
         "InterviewDate": "01/02/2024",
@@ -4892,8 +4892,38 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "12/10/2024",
+        "quota_id": "EK-BOM",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "12/10/2024",
+        "quota_id": "EK-DAR",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "12/10/2024",
         "quota_id": "EK-DEL",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "12/10/2024",
+        "quota_id": "EK-KUL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "12/10/2024",
+        "quota_id": "EK-KWI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "12/10/2024",
+        "quota_id": "EK-NBO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "12/10/2024",
+        "quota_id": "SV-RUH",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "13/05/2024",
@@ -5157,8 +5187,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "14/10/2024",
+        "quota_id": "EK-DME",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "14/10/2024",
         "quota_id": "EK-HYD",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "EK-JED",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "14/10/2024",
@@ -5184,6 +5224,16 @@ let interview_statistics_asq = `[
         "InterviewDate": "14/10/2024",
         "quota_id": "FZ-IKA",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "FZ-TLV",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "SV-RUH",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "15/01/2024",
