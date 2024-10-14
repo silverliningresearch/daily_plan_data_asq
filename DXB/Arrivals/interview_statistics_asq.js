@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/02/2024",
         "quota_id": "EK-COK",
         "Number of interviews": 2,
-        "download_time": "14-10-2024 22:12:34"
+        "download_time": "14-10-2024 23:22:40"
     },
     {
         "InterviewDate": "01/02/2024",
@@ -5182,12 +5182,27 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "14/10/2024",
+        "quota_id": "0-BAH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "14/10/2024",
         "quota_id": "0-BOM",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "14/10/2024",
         "quota_id": "6E-BOM",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "6E-DEL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "CZ-CAN",
         "Number of interviews": 2
     },
     {
@@ -5242,13 +5257,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "14/10/2024",
+        "quota_id": "GF-BAH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "14/10/2024",
         "quota_id": "J9-KWI",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "14/10/2024",
         "quota_id": "KE-ICN",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "14/10/2024",
@@ -5259,6 +5279,21 @@ let interview_statistics_asq = `[
         "InterviewDate": "14/10/2024",
         "quota_id": "PR-MNL",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "QR-DOH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "RJ-AMM",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "14/10/2024",
+        "quota_id": "SG-AMD",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "14/10/2024",
