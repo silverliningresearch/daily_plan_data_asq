@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-02",
         "quota_id": "KL-AMS",
         "Number of interviews": 8,
-        "download_time": "18-02-2025 17:12:44"
+        "download_time": "18-02-2025 18:23:32"
     },
     {
         "InterviewDate": "2024-07-04",
@@ -5327,12 +5327,77 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-02-18",
+        "quota_id": "BR-BKK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "FR-AGP",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "FR-ARN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-18",
         "quota_id": "FR-ATH",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-02-18",
+        "quota_id": "FR-MLA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "FR-OPO",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "FR-PMI",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "GQ-ATH",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "OS-AMS",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "OS-BER",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "OS-BRU",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-02-18",
         "quota_id": "OS-DUS",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "OS-MUC",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "OS-ZRH",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-02-18",
+        "quota_id": "OS-ZURICH",
+        "Number of interviews": 1
     }
 ] `;
