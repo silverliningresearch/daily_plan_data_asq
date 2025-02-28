@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-01-02",
         "quota_id": "FR-BCN",
         "Number of interviews": 4,
-        "download_time": "19-02-2025 15:21:47"
+        "download_time": "28-02-2025 11:49:27"
     },
     {
         "InterviewDate": "2024-01-02",
@@ -3719,5 +3719,75 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-02-19",
         "quota_id": "W6-TGM",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-20",
+        "quota_id": "7O-SLL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-20",
+        "quota_id": "W6-TLV",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "FR-FAO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-23",
+        "quota_id": "IZ-TLV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "AF-CDG",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "FR-TLS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "KE-ICN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "SN-BRU",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "W6-OTP",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "DY-OSL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "FR-BER",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-27",
+        "quota_id": "RK-BFS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-28",
+        "quota_id": "FR-CRL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-28",
+        "quota_id": "FR-NUE",
+        "Number of interviews": 1
     }
 ] `;

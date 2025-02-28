@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/01/2025",
         "quota_id": "EY-JED",
         "Number of interviews": 1,
-        "download_time": "19-02-2025 18:21:59"
+        "download_time": "28-02-2025 14:49:42"
     },
     {
         "InterviewDate": "01/01/2025",
@@ -1562,8 +1562,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "19/02/2025",
+        "quota_id": "5W-TIA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "19/02/2025",
         "quota_id": "EY-BOM",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "19/02/2025",
+        "quota_id": "QR-DOH",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "19/10/2024",
@@ -1621,6 +1631,26 @@ let interview_statistics_asq = `[
         "Number of interviews": 2
     },
     {
+        "InterviewDate": "20/02/2025",
+        "quota_id": "5W-TLV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "20/02/2025",
+        "quota_id": "A3-ATH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "20/02/2025",
+        "quota_id": "EY-BKK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "20/02/2025",
+        "quota_id": "EY-DEL",
+        "Number of interviews": 1
+    },
+    {
         "InterviewDate": "20/10/2024",
         "quota_id": "3L-BAH",
         "Number of interviews": 2
@@ -1673,6 +1703,16 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "21/01/2025",
         "quota_id": "GF-BAH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "21/02/2025",
+        "quota_id": "EY-BKK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "21/02/2025",
+        "quota_id": "EY-SYD",
         "Number of interviews": 1
     },
     {
@@ -1756,6 +1796,11 @@ let interview_statistics_asq = `[
         "Number of interviews": 3
     },
     {
+        "InterviewDate": "23/02/2025",
+        "quota_id": "EY-BKK",
+        "Number of interviews": 1
+    },
+    {
         "InterviewDate": "23/11/2024",
         "quota_id": "3L-AMD",
         "Number of interviews": 1
@@ -1793,6 +1838,21 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "23/11/2024",
         "quota_id": "EY-MCT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "24/02/2025",
+        "quota_id": "EY-BOM",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "24/02/2025",
+        "quota_id": "EY-KUL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "24/02/2025",
+        "quota_id": "EY-MAA",
         "Number of interviews": 2
     }
 ] `;

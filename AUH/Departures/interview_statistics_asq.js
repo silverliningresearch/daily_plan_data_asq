@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-10-01",
         "quota_id": "EY-BOM",
         "Number of interviews": 5,
-        "download_time": "19-02-2025 18:21:57"
+        "download_time": "28-02-2025 14:49:39"
     },
     {
         "InterviewDate": "2024-10-02",
@@ -1562,7 +1562,67 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-02-19",
+        "quota_id": "EY-HYD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-19",
         "quota_id": "IX-CCJ",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-20",
+        "quota_id": "BS-CGP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-20",
+        "quota_id": "EY-DEL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-20",
+        "quota_id": "EY-HKT",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "3L-AMD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "5W-GYD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "EY-BLR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "EY-MCT",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "EY-PVG",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "MS-CAI",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "5W-GYD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "6E-AMD",
         "Number of interviews": 2
     }
 ] `;

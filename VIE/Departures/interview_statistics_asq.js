@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-02",
         "quota_id": "KL-AMS",
         "Number of interviews": 8,
-        "download_time": "19-02-2025 15:21:16"
+        "download_time": "28-02-2025 11:48:55"
     },
     {
         "InterviewDate": "2024-07-04",
@@ -5399,5 +5399,155 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-02-18",
         "quota_id": "OS-ZURICH",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "EI-DUB",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "FR-BNX",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "FR-KRK",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "FR-MRS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "FR-MXP",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "FR-RIX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "G9-SHJ",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-21",
+        "quota_id": "W4-DXB",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "EK-DXB",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "OS-CPH",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "OS-FUE",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "OS-HAM",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-22",
+        "quota_id": "OS-INN",
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "FR-BVA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "FR-RIX",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "FR-SOF",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "FR-WAW",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "LY-TLV",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "OS-MLE",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-02-24",
+        "quota_id": "W4-HRG",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-25",
+        "quota_id": "OS-INN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-25",
+        "quota_id": "OS-VCE",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-25",
+        "quota_id": "OS-ZRH",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "HU-SZX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "W4-FNC",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-02-26",
+        "quota_id": "W6-FUNCHAL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-02-27",
+        "quota_id": "A9-TBS",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-02-27",
+        "quota_id": "OS-EBL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-27",
+        "quota_id": "OS-YUL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-02-27",
+        "quota_id": "W4-NCE",
+        "Number of interviews": 4
     }
 ] `;
