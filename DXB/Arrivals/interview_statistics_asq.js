@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/01/2025",
         "quota_id": "0-TLV",
         "Number of interviews": 2,
-        "download_time": "04-03-2025 23:14:26"
+        "download_time": "05-03-2025 00:25:29"
     },
     {
         "InterviewDate": "01/01/2025",
@@ -1982,6 +1982,21 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "04/03/2025",
+        "quota_id": "0-MCT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "04/03/2025",
+        "quota_id": "AI-HYD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "04/03/2025",
+        "quota_id": "BS-DAC",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "04/03/2025",
         "quota_id": "EK-BLR",
         "Number of interviews": 3
     },
@@ -2027,12 +2042,47 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "04/03/2025",
+        "quota_id": "MU-KMG",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "04/03/2025",
+        "quota_id": "QR-DOH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "04/03/2025",
         "quota_id": "QS-PRG",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "04/03/2025",
+        "quota_id": "RQ-KBL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "04/03/2025",
         "quota_id": "SU-SVO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "04/03/2025",
+        "quota_id": "SV-JED",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "04/03/2025",
+        "quota_id": "SV-MED",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "04/03/2025",
+        "quota_id": "UL-CMB",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "04/03/2025",
+        "quota_id": "WY-MCT",
         "Number of interviews": 1
     },
     {
@@ -2529,6 +2579,11 @@ let interview_statistics_asq = `[
         "InterviewDate": "05/03/2024",
         "quota_id": "FZ-TAS",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "05/03/2025",
+        "quota_id": "BA-LHR",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "05/04/2024",
