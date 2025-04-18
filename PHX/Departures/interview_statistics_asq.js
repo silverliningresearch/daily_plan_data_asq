@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "19-04-2025 01:41:10"
+        "download_time": "19-04-2025 02:52:52"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -1802,27 +1802,87 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-04-18",
+        "quota_id": "AA-CMH",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "AA-EWR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-18",
         "quota_id": "AA-JFK",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-04-18",
-        "quota_id": "WN-AUS",
-        "Number of interviews": 7
+        "quota_id": "AA-MCO",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-04-18",
-        "quota_id": "WN-BHM",
+        "quota_id": "AA-RDU",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "B6-BOS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "F9-MDW",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "F9-ORD",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-04-18",
+        "quota_id": "F9-SFO",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "F9-SLC",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "F9-SNA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "WN-AUS",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "WN-BHM",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-04-18",
         "quota_id": "WN-DEN",
-        "Number of interviews": 7
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "WN-PIT",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-04-18",
         "quota_id": "WN-SAT",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-04-18",
+        "quota_id": "WN-SJC",
+        "Number of interviews": 5
     }
 ] `;
