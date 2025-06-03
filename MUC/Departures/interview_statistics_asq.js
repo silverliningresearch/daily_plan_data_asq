@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-01-05",
         "quota_id": "BA-LHR",
         "Number of interviews": 6,
-        "download_time": "03-06-2025 18:25:39"
+        "download_time": "03-06-2025 19:37:56"
     },
     {
         "InterviewDate": "2023-01-05",
@@ -9707,6 +9707,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-05-31",
+        "quota_id": "LH-PEK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-05-31",
         "quota_id": "LH-SFO",
         "Number of interviews": 4
     },
@@ -9714,5 +9719,25 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-05-31",
         "quota_id": "VL-MAN",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "quota_id": "4Y-KEF",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "quota_id": "LH-FRA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "quota_id": "LH-KEFLAVIK INT. AIRPORT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-03",
+        "quota_id": "LH-ZAG",
+        "Number of interviews": 2
     }
 ] `;
