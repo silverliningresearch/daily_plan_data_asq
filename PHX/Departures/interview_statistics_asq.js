@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "08-06-2025 02:56:34"
+        "download_time": "16-06-2025 15:11:55"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -2827,6 +2827,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-06-07",
+        "quota_id": "AA-SAN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-06-07",
         "quota_id": "AA-SLC",
         "Number of interviews": 6
     },
@@ -2837,12 +2842,152 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-06-07",
+        "quota_id": "WN-BNA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-07",
         "quota_id": "WN-BUR",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-06-07",
+        "quota_id": "WN-DEN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-07",
+        "quota_id": "WN-MDW",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-07",
         "quota_id": "WN-MKE",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-06-07",
+        "quota_id": "WN-PDX",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-CLT",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-DCA",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-DFW",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-LAX",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-MIA",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-MSP",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-ORD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-PHL",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-PSP",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-SEA",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AA-STL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "AM-MEX",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "LF-SOW",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "Y4-GDL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "AA-DFW",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "AA-ELP",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "AA-GDL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "AA-OKC",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "AA-ORD",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "DL-SEA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "F9-IAH",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "WN-ABQ",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "WN-PVR",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "WS-YYC",
+        "Number of interviews": 3
     }
 ] `;

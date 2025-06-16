@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-02",
         "quota_id": "KL-AMS",
         "Number of interviews": 8,
-        "download_time": "08-06-2025 00:55:40"
+        "download_time": "16-06-2025 13:10:56"
     },
     {
         "InterviewDate": "2024-07-04",
@@ -7734,5 +7734,95 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-06-07",
         "quota_id": "OS-TGD",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "FR-BRI",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "OS-BCN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "OS-CDG",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "OS-FCO",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "OS-JFK",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "OS-KEF",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-08",
+        "quota_id": "OS-NAP",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "FR-PFO",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "FR-SKG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "JU-BEG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "OS-NAP",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-06-14",
+        "quota_id": "OS-NAPLES",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "A3-ATH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "FR-CGN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "FR-MAN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "OS-LEJ",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "OS-MXP",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "PE-ACH",
+        "Number of interviews": 3
     }
 ] `;

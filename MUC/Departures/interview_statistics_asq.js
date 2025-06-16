@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-01-05",
         "quota_id": "BA-LHR",
         "Number of interviews": 6,
-        "download_time": "08-06-2025 00:55:33"
+        "download_time": "16-06-2025 13:10:49"
     },
     {
         "InterviewDate": "2023-01-05",
@@ -9844,5 +9844,190 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-06-07",
         "quota_id": "X3-FUE",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "4Y-IBZ",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "LH-BER",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "LH-CPH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "LH-DRS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "LH-LUX",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "LH-LYS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-09",
+        "quota_id": "LO-WAW",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "BT-RIX",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "EN-VCE",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "LH-DRS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "LH-HAM",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "LH-LYS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "LH-OTP",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "LH-RIX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "LH-STR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "LO-WAW",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-10",
+        "quota_id": "UA-SFO",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-13",
+        "quota_id": "DE-PMI",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "EN-FLR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "EN-MXP",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-CTA",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-DRS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-LUX",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-LYS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-OSL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-SOF",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-STR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LH-ZAG",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LO-WAW",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-15",
+        "quota_id": "LX-GVA",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "quota_id": "AF-CDG",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "quota_id": "AY-HEL",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "quota_id": "DE-TFS",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "quota_id": "EW-HAM",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "quota_id": "SK-CPH",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "quota_id": "UX-MAD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2025-06-16",
+        "quota_id": "VY-BCN",
+        "Number of interviews": 4
     }
 ] `;
