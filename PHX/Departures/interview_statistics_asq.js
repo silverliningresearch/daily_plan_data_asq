@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "24-07-2025 05:34:59"
+        "download_time": "24-07-2025 06:46:34"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -3368,37 +3368,42 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "AA-DFW",
-        "Number of interviews": 3
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-07-23",
+        "quota_id": "AA-GEG",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "AA-HNL",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "AA-IAH",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "AA-LAX",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "AA-ONT",
-        "Number of interviews": 3
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "AA-TUS",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "WN-ABQ",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-23",
@@ -3413,21 +3418,31 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "WN-HOU",
-        "Number of interviews": 4
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "WN-IND",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "WN-MCI",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2025-07-23",
         "quota_id": "WN-MDW",
-        "Number of interviews": 5
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-07-23",
+        "quota_id": "WN-MKE",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-07-23",
+        "quota_id": "WN-SJC",
+        "Number of interviews": 3
     }
 ] `;
