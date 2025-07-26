@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "26-07-2025 15:16:05"
+        "download_time": "26-07-2025 16:27:28"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -3453,27 +3453,27 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-07-25",
         "quota_id": "AA-OMA",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2025-07-25",
-        "quota_id": "AA-TUS",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-07-25",
-        "quota_id": "AC-YYZ",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-07-25",
-        "quota_id": "AS-PAE",
+        "quota_id": "AA-TUS",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-07-25",
+        "quota_id": "AC-YYZ",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-25",
-        "quota_id": "AS-SEA",
+        "quota_id": "AS-PAE",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-07-25",
+        "quota_id": "AS-SEA",
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-07-25",
@@ -3483,36 +3483,41 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-07-25",
         "quota_id": "F9-SFO",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2025-07-25",
-        "quota_id": "UA-DEN",
-        "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "2025-07-25",
-        "quota_id": "UA-EWR",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "2025-07-25",
-        "quota_id": "UA-ORD",
-        "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "2025-07-25",
-        "quota_id": "WN-OKC",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "2025-07-25",
-        "quota_id": "WN-SAN",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-07-25",
+        "quota_id": "UA-DEN",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-07-25",
+        "quota_id": "UA-EWR",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-07-25",
+        "quota_id": "UA-ORD",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2025-07-25",
+        "quota_id": "WN-BHM",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-07-25",
+        "quota_id": "WN-OKC",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-07-25",
+        "quota_id": "WN-SAN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2025-07-25",
         "quota_id": "WN-SJD",
-        "Number of interviews": 2
+        "Number of interviews": 4
     }
 ] `;
