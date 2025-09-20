@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "20-09-2025 07:03:48"
+        "download_time": "20-09-2025 08:16:12"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -4527,6 +4527,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-09-19",
+        "quota_id": "AA-AUS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-09-19",
         "quota_id": "AA-CMH",
         "Number of interviews": 1
     },
@@ -4552,12 +4557,22 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-09-19",
+        "quota_id": "AA-MSP",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-09-19",
         "quota_id": "AA-ORD",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-09-19",
         "quota_id": "AA-RNO",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "quota_id": "AA-SBA",
         "Number of interviews": 1
     },
     {
@@ -4569,6 +4584,26 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-09-19",
         "quota_id": "AA-SMF",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "quota_id": "AC-YVR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "quota_id": "AS-ANC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "quota_id": "B6-JFK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "quota_id": "BA-LHR",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-09-19",
@@ -4584,5 +4619,10 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-09-19",
         "quota_id": "WN-PDX",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-09-19",
+        "quota_id": "WN-SAN",
+        "Number of interviews": 1
     }
 ] `;
