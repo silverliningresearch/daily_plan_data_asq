@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "21-09-2025 02:09:25"
+        "download_time": "21-09-2025 03:21:15"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -4633,12 +4633,12 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-09-20",
         "quota_id": "AC-YUL",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-09-20",
         "quota_id": "AS-PDX",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-09-20",
@@ -4653,7 +4653,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-09-20",
         "quota_id": "F9-LAS",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-09-20",
@@ -4678,7 +4678,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-09-20",
         "quota_id": "WN-DAL",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-09-20",
@@ -4688,12 +4688,12 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-09-20",
         "quota_id": "WN-LAS",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-09-20",
         "quota_id": "WN-LAX",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-09-20",
@@ -4703,16 +4703,16 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-09-20",
         "quota_id": "WN-SLC",
-        "Number of interviews": 9
-    },
-    {
-        "InterviewDate": "2025-09-20",
-        "quota_id": "WN-SNA",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2025-09-20",
+        "quota_id": "WN-SNA",
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2025-09-20",
         "quota_id": "WN-STL",
-        "Number of interviews": 9
+        "Number of interviews": 10
     }
 ] `;
