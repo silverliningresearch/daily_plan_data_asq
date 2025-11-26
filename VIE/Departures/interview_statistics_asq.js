@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-02",
         "quota_id": "KL-AMS",
         "Number of interviews": 8,
-        "download_time": "26-11-2025 12:10:46"
+        "download_time": "26-11-2025 13:22:48"
     },
     {
         "InterviewDate": "2024-07-04",
@@ -11018,7 +11018,17 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-11-26",
         "quota_id": "A3-ATH",
-        "Number of interviews": 4
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-11-26",
+        "quota_id": "DE-FRA",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2025-11-26",
+        "quota_id": "EI-DUB",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-11-26",
@@ -11028,26 +11038,46 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-11-26",
         "quota_id": "FR-FCO",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-11-26",
         "quota_id": "FR-LIS",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2025-11-26",
         "quota_id": "HU-SZX",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2025-11-26",
+        "quota_id": "IB-MAD",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2025-11-26",
+        "quota_id": "LH-MUC",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-11-26",
         "quota_id": "OS-FRA",
-        "Number of interviews": 2
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2025-11-26",
         "quota_id": "OS-FRANKFURT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-11-26",
+        "quota_id": "OS-MUC",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-11-26",
+        "quota_id": "OS-TGD",
         "Number of interviews": 1
     }
 ] `;
