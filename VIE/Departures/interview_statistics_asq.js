@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-02",
         "quota_id": "KL-AMS",
         "Number of interviews": 8,
-        "download_time": "27-11-2025 11:41:11"
+        "download_time": "27-11-2025 12:52:53"
     },
     {
         "InterviewDate": "2024-07-04",
@@ -11142,8 +11142,18 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-11-27",
+        "quota_id": "BR-TPE",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-11-27",
+        "quota_id": "CA-PEK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-11-27",
         "quota_id": "DE-FRA",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-11-27",
@@ -11152,13 +11162,23 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-11-27",
+        "quota_id": "FR-ALC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-11-27",
+        "quota_id": "FR-CTA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2025-11-27",
         "quota_id": "FR-MAD",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-11-27",
         "quota_id": "FR-MRS",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-11-27",
@@ -11168,6 +11188,11 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2025-11-27",
         "quota_id": "OS-BRU",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2025-11-27",
+        "quota_id": "OS-KLU",
         "Number of interviews": 4
     },
     {
@@ -11184,5 +11209,10 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-11-27",
         "quota_id": "OU-ZAG",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2025-11-27",
+        "quota_id": "W4-TFS",
+        "Number of interviews": 1
     }
 ] `;
