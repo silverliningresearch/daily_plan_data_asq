@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-01-05",
         "quota_id": "BA-LHR",
         "Number of interviews": 6,
-        "download_time": "17-12-2025 04:05:21"
+        "download_time": "17-12-2025 04:11:39"
     },
     {
         "InterviewDate": "2023-01-05",
@@ -12056,39 +12056,9 @@ let interview_statistics_asq = `[
         "Number of interviews": 4
     },
     {
-        "InterviewDate": "2025-12-02",
-        "quota_id": "LH-MAD",
-        "Number of interviews": 3
-    },
-    {
         "InterviewDate": "2025-12-03",
         "quota_id": "OS-VIE",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-12-04",
-        "quota_id": "LH-BKK",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2025-12-04",
-        "quota_id": "LH-PEK",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2025-12-04",
-        "quota_id": "LH-PVG",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-12-04",
-        "quota_id": "LH-SIN",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2025-12-04",
-        "quota_id": "SN-BRU",
-        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-12-05",
@@ -12227,11 +12197,6 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-12-09",
-        "quota_id": "EN-TRN",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-12-09",
         "quota_id": "LH-BCN",
         "Number of interviews": 2
     },
@@ -12247,11 +12212,6 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2025-12-09",
-        "quota_id": "LH-DRS",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-12-09",
         "quota_id": "LH-LAX",
         "Number of interviews": 1
     },
@@ -12264,16 +12224,6 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-12-09",
         "quota_id": "LH-OSL",
         "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2025-12-09",
-        "quota_id": "LH-SIN",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2025-12-09",
-        "quota_id": "LX-ZRH",
-        "Number of interviews": 2
     },
     {
         "InterviewDate": "2025-12-11",
@@ -12354,16 +12304,6 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-12-16",
         "quota_id": "LH-BCN",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2025-12-16",
-        "quota_id": "LH-HAJ",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "2025-12-16",
-        "quota_id": "LH-PEK",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "2025-12-16",
