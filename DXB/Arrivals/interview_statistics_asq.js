@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/01/2025",
         "quota_id": "0-TLV",
         "Number of interviews": 2,
-        "download_time": "06-01-2026 04:59:24"
+        "download_time": "06-01-2026 06:10:35"
     },
     {
         "InterviewDate": "01/01/2025",
@@ -3092,6 +3092,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "05/01/2026",
+        "quota_id": "EK-HKG",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "05/01/2026",
         "quota_id": "EK-ISB",
         "Number of interviews": 3
     },
@@ -3108,7 +3113,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "05/01/2026",
         "quota_id": "EK-KUL",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "05/01/2026",
@@ -4259,6 +4264,61 @@ let interview_statistics_asq = `[
         "InterviewDate": "06/01/2025",
         "quota_id": "EK-SIN",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "0-JED",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-BKK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-CAN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-CMN",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-DUR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-DUS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-FRA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-HKT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-JED",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-LHR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "06/01/2026",
+        "quota_id": "EK-MLE",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "06/02/2025",
