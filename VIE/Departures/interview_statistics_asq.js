@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-02",
         "quota_id": "KL-AMS",
         "Number of interviews": 8,
-        "download_time": "12-01-2026 10:12:53"
+        "download_time": "12-01-2026 11:25:15"
     },
     {
         "InterviewDate": "2024-07-04",
@@ -11712,47 +11712,57 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-01-12",
+        "quota_id": "BA-LHR",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-01-12",
         "quota_id": "FR-AGA",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-01-12",
-        "quota_id": "FR-ATH",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2026-01-12",
-        "quota_id": "FR-CGN",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "2026-01-12",
-        "quota_id": "FR-CTA",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-01-12",
+        "quota_id": "FR-ATH",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-01-12",
+        "quota_id": "FR-CGN",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-01-12",
+        "quota_id": "FR-CTA",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-01-12",
         "quota_id": "FR-DBV",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-01-12",
         "quota_id": "FR-MLA",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-01-12",
         "quota_id": "FR-MXP",
-        "Number of interviews": 3
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-01-12",
+        "quota_id": "FR-PALMA DE MALLORCA",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-01-12",
         "quota_id": "FR-PMI",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-01-12",
         "quota_id": "PE-ACH",
-        "Number of interviews": 3
+        "Number of interviews": 5
     }
 ] `;
