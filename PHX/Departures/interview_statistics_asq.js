@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "22-01-2026 03:39:24"
+        "download_time": "22-01-2026 04:51:27"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -7417,6 +7417,61 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-01-21",
+        "quota_id": "AA-DFW",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AA-GDL",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AA-LIT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AA-OKC",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AA-PHL",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AA-RDM",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AA-SLC",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AA-TUS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "AF-CDG",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "CI-TPE",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "LF-SOW",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-01-21",
         "quota_id": "WN-DEN",
         "Number of interviews": 7
     },
@@ -7424,5 +7479,10 @@ let interview_statistics_asq = `[
         "InterviewDate": "2026-01-21",
         "quota_id": "WN-MDW",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-01-21",
+        "quota_id": "WN-SNA",
+        "Number of interviews": 4
     }
 ] `;
