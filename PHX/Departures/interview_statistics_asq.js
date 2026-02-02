@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "02-02-2026 22:56:51"
+        "download_time": "03-02-2026 00:09:16"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -7777,6 +7777,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-02-02",
+        "quota_id": "AA-DFW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-02-02",
         "quota_id": "AC-YYZ",
         "Number of interviews": 4
     },
@@ -7784,6 +7789,16 @@ let interview_statistics_asq = `[
         "InterviewDate": "2026-02-02",
         "quota_id": "DL-ATL",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-02-02",
+        "quota_id": "DL-JFK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-02-02",
+        "quota_id": "DL-LAX",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-02-02",
@@ -7802,13 +7817,28 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-02-02",
+        "quota_id": "F9-LAS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-02-02",
         "quota_id": "F9-LAX",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-02-02",
+        "quota_id": "F9-ORD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-02-02",
         "quota_id": "F9-SLC",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-02-02",
+        "quota_id": "F9-SNA",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-02-02",
