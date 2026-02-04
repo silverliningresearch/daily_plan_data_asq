@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-10-03",
         "quota_id": "DE-ACE",
         "Number of interviews": 1,
-        "download_time": "04-02-2026 23:19:15"
+        "download_time": "05-02-2026 00:31:52"
     },
     {
         "InterviewDate": "2025-10-03",
