@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-07-02",
         "quota_id": "KL-AMS",
         "Number of interviews": 8,
-        "download_time": "18-02-2026 17:56:29"
+        "download_time": "18-02-2026 19:09:02"
     },
     {
         "InterviewDate": "2024-07-04",
@@ -12283,56 +12283,66 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2026-02-18",
         "quota_id": "AF-CDG",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "BR-BKK",
-        "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "DY-OSL",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "EW-DUS",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "EW-HAM",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "FR-OPO",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "FR-TSF",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "TK-IST",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "VF-ESB",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2026-02-18",
-        "quota_id": "VF-SAW",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-02-18",
+        "quota_id": "BR-BKK",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "DY-OSL",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "EW-DUS",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "EW-HAM",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "FR-OPO",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "FR-TSF",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "IB-MAD",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "SM-RMF",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "TK-IST",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "VF-ESB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-02-18",
+        "quota_id": "VF-SAW",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-02-18",
         "quota_id": "W4-LTN",
-        "Number of interviews": 3
+        "Number of interviews": 7
     }
 ] `;
