@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2023-01-05",
         "quota_id": "BA-LHR",
         "Number of interviews": 6,
-        "download_time": "22-02-2026 18:53:34"
+        "download_time": "22-02-2026 20:06:30"
     },
     {
         "InterviewDate": "2023-01-05",
@@ -12822,6 +12822,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-02-22",
+        "quota_id": "A3-SKG",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-02-22",
         "quota_id": "CA-PEK",
         "Number of interviews": 4
     },
@@ -12832,13 +12837,33 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-02-22",
+        "quota_id": "DY-OSL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-02-22",
         "quota_id": "EC-FCO",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-02-22",
+        "quota_id": "EN-MXP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-02-22",
+        "quota_id": "EN-VRN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-02-22",
         "quota_id": "EW-PMI",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-02-22",
+        "quota_id": "KL-AMS",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-02-22",
@@ -12867,6 +12892,11 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-02-22",
+        "quota_id": "LH-WAW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-02-22",
         "quota_id": "TG-BKK",
         "Number of interviews": 4
     },
@@ -12874,6 +12904,11 @@ let interview_statistics_asq = `[
         "InterviewDate": "2026-02-22",
         "quota_id": "UA-SFO",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-02-22",
+        "quota_id": "UX-MAD",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-02-22",
