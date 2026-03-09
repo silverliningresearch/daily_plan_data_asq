@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/01/2025",
         "quota_id": "0-TLV",
         "Number of interviews": 2,
-        "download_time": "10-03-2026 02:15:09"
+        "download_time": "10-03-2026 03:28:05"
     },
     {
         "InterviewDate": "01/01/2025",
@@ -8326,6 +8326,21 @@ let interview_statistics_asq = `[
         "Number of interviews": 1
     },
     {
+        "InterviewDate": "09/03/2026",
+        "quota_id": "EK-HKT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "09/03/2026",
+        "quota_id": "EK-HYD",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "09/03/2026",
+        "quota_id": "EK-RUH",
+        "Number of interviews": 2
+    },
+    {
         "InterviewDate": "09/04/2025",
         "quota_id": "0-MNL",
         "Number of interviews": 1
@@ -9124,6 +9139,51 @@ let interview_statistics_asq = `[
         "InterviewDate": "10/03/2024",
         "quota_id": "XY-JED",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "0-IST",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-CMB",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-DEL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-DPS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-FRA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-HYD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-IST",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-LCA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "10/03/2026",
+        "quota_id": "EK-VIE",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "10/04/2025",
