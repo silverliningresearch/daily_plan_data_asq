@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "15-03-2026 00:40:57"
+        "download_time": "15-03-2026 01:53:30"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -8684,5 +8684,70 @@ let interview_statistics_asq = `[
         "InterviewDate": "2026-03-11",
         "quota_id": "WN-SAT",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "AA-AUS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "AA-DCA",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "AA-MCI",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "AA-MCO",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "AA-ORD",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "AA-SAN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "AA-SFO",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "WN-DAL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "WN-MCI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "WN-SAN",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-03-14",
+        "quota_id": "WN-SFO",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-03-21",
+        "quota_id": "AA-SFO",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-03-21",
+        "quota_id": "WN-SAN",
+        "Number of interviews": 1
     }
 ] `;
