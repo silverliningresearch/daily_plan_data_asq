@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "25-05-2026 00:34:55"
+        "download_time": "25-05-2026 01:47:18"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -9778,17 +9778,17 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "AA-BOS",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "AA-CLT",
-        "Number of interviews": 9
+        "Number of interviews": 17
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "AA-DCA",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-05-24",
@@ -9798,42 +9798,52 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "AA-LAS",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "AA-LAX",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "WN-AUS",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "WN-GEG",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "WN-HOU",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "WN-LAS",
-        "Number of interviews": 4
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-05-24",
+        "quota_id": "WN-LAX",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-05-24",
+        "quota_id": "WN-MDW",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "WN-PDX",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-05-24",
         "quota_id": "WN-SAT",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-05-24",
