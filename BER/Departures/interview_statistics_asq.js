@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-01-08",
         "quota_id": "BA-LHR",
         "Number of interviews": 3,
-        "download_time": "17-06-2026 11:27:12"
+        "download_time": "17-06-2026 12:40:23"
     },
     {
         "InterviewDate": "2024-01-08",
@@ -11744,5 +11744,15 @@ let interview_statistics_asq = `[
         "InterviewDate": "2026-06-17",
         "quota_id": "EW-DUS",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-06-17",
+        "quota_id": "IB-MAD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-06-17",
+        "quota_id": "VF-SAW",
+        "Number of interviews": 5
     }
 ] `;
