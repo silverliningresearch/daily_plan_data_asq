@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "22-06-2026 20:48:55"
+        "download_time": "22-06-2026 22:02:25"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -10328,27 +10328,32 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2026-06-22",
         "quota_id": "AA-ICT",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "2026-06-22",
-        "quota_id": "AA-PHL",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-06-22",
+        "quota_id": "AA-PHL",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-06-22",
         "quota_id": "AA-SAN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-06-22",
+        "quota_id": "AA-SNA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-06-22",
         "quota_id": "AA-XNA",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-06-22",
         "quota_id": "LF-SOW",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-06-22",
@@ -10358,7 +10363,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2026-06-22",
         "quota_id": "WN-DEN",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-06-22",
@@ -10367,8 +10372,13 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-06-22",
-        "quota_id": "WN-MDW",
+        "quota_id": "WN-MCI",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-06-22",
+        "quota_id": "WN-MDW",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-06-22",
@@ -10378,6 +10388,6 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2026-06-22",
         "quota_id": "WN-STL",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ] `;
