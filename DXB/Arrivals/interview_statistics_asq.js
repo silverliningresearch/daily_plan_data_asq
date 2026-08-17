@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/01/2025",
         "quota_id": "0-TLV",
         "Number of interviews": 2,
-        "download_time": "17-08-2026 05:36:43"
+        "download_time": "17-08-2026 06:49:40"
     },
     {
         "InterviewDate": "01/01/2025",
@@ -13606,6 +13606,11 @@ let interview_statistics_asq = `[
         "Number of interviews": 1
     },
     {
+        "InterviewDate": "16/08/2026",
+        "quota_id": "EK-VIE",
+        "Number of interviews": 2
+    },
+    {
         "InterviewDate": "16/11/2025",
         "quota_id": "AI-DEL",
         "Number of interviews": 3
@@ -13854,6 +13859,56 @@ let interview_statistics_asq = `[
         "InterviewDate": "17/08/2024",
         "quota_id": "EK-FCO",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "0-MLE",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-BCN",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-DPS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-HKG",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-HKT",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-HYD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-LHR",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-MCT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-MLE",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "17/08/2026",
+        "quota_id": "EK-PEK",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "17/11/2025",
