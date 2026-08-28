@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2024-01-08",
         "quota_id": "BA-LHR",
         "Number of interviews": 3,
-        "download_time": "28-08-2026 13:43:43"
+        "download_time": "28-08-2026 14:03:21"
     },
     {
         "InterviewDate": "2024-01-08",
@@ -12683,7 +12683,7 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "2026-08-24",
         "quota_id": "W6-BEG",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2026-08-25",
@@ -12697,7 +12697,102 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-08-26",
+        "quota_id": "BA-LHR",
+        "Number of interviews": 12
+    },
+    {
+        "InterviewDate": "2026-08-26",
+        "quota_id": "FR-AGP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-08-26",
+        "quota_id": "FR-ALC",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-08-26",
+        "quota_id": "FR-ZAD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-26",
         "quota_id": "KL-AMS",
         "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2026-08-26",
+        "quota_id": "LH-FRA",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-08-26",
+        "quota_id": "SR-BEY",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "EC-FCO",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "EC-NAP",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "EC-PSA",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "EW-DUS",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "EW-NCE",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "EW-STR",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "FI-KEF",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "KL-JFK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "U2-BHX",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-08-27",
+        "quota_id": "UA-EWR",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-08-28",
+        "quota_id": "AF-CDG",
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2026-08-28",
+        "quota_id": "FR-LIS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-08-28",
+        "quota_id": "LX-ZRH",
+        "Number of interviews": 8
     }
 ] `;
