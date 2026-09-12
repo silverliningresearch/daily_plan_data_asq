@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "12-09-2026 20:55:13"
+        "download_time": "12-09-2026 22:09:28"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -11237,22 +11237,77 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-09-12",
+        "quota_id": "AS-PAE",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "AS-PDX",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2026-09-12",
         "quota_id": "AS-SAN",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-09-12",
         "quota_id": "AS-SEA",
-        "Number of interviews": 1
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "DL-ATL",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-09-12",
         "quota_id": "DL-DTW",
-        "Number of interviews": 1
+        "Number of interviews": 13
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "DL-JFK",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "DL-SEA",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "F9-DFW",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "F9-DTW",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "F9-LAS",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "UA-DEN",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "UA-EWR",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-09-12",
+        "quota_id": "UA-IAD",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-09-12",
         "quota_id": "UA-SFO",
-        "Number of interviews": 1
+        "Number of interviews": 11
     }
 ] `;
