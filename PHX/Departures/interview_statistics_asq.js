@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "13-09-2026 20:02:29"
+        "download_time": "13-09-2026 21:17:10"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -11367,18 +11367,38 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-09-13",
-        "quota_id": "AA-MSP",
+        "quota_id": "AA-BNA",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "AA-CLT",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "AA-HNL",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "AA-MSP",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "AA-SJD",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2026-09-13",
         "quota_id": "WN-AUS",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2026-09-13",
         "quota_id": "WN-DAL",
-        "Number of interviews": 1
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2026-09-13",
@@ -11387,7 +11407,27 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-09-13",
+        "quota_id": "WN-GEG",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-IND",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-SEA",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-09-13",
         "quota_id": "WN-SJC",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "Y4-GDL",
         "Number of interviews": 1
     }
 ] `;
