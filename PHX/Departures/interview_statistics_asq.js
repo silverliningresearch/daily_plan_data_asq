@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "2025-01-09",
         "quota_id": "AA-MEX",
         "Number of interviews": 6,
-        "download_time": "14-09-2026 03:41:51"
+        "download_time": "14-09-2026 04:55:26"
     },
     {
         "InterviewDate": "2025-01-09",
@@ -11377,13 +11377,28 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-09-13",
+        "quota_id": "AA-DCA",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-09-13",
         "quota_id": "AA-HNL",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2026-09-13",
+        "quota_id": "AA-MCO",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-09-13",
         "quota_id": "AA-MSP",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "AA-SGU",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2026-09-13",
@@ -11397,6 +11412,16 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-09-13",
+        "quota_id": "WN-BNA",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-BWI",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2026-09-13",
         "quota_id": "WN-DAL",
         "Number of interviews": 10
     },
@@ -11404,6 +11429,11 @@ let interview_statistics_asq = `[
         "InterviewDate": "2026-09-13",
         "quota_id": "WN-DEN",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-ELP",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2026-09-13",
@@ -11417,7 +11447,32 @@ let interview_statistics_asq = `[
     },
     {
         "InterviewDate": "2026-09-13",
+        "quota_id": "WN-LGB",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-MCI",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-ONT",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-PDX",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2026-09-13",
         "quota_id": "WN-SEA",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2026-09-13",
+        "quota_id": "WN-SFO",
         "Number of interviews": 9
     },
     {
