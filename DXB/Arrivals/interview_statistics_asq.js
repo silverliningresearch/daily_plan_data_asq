@@ -3,7 +3,7 @@ let interview_statistics_asq = `[
         "InterviewDate": "01/01/2025",
         "quota_id": "0-TLV",
         "Number of interviews": 2,
-        "download_time": "18-11-2026 11:02:00"
+        "download_time": "18-11-2026 11:16:17"
     },
     {
         "InterviewDate": "01/01/2025",
@@ -14716,6 +14716,71 @@ let interview_statistics_asq = `[
         "Number of interviews": 3
     },
     {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "6E-BOM",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "6E-DEL",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "FZ-DOH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "FZ-JED",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "FZ-VKO",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "GF-BAH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "IX-BLR",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "IX-IXE",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "QR-DOH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "SV-JED",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "SV-MED",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "SV-RUH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "17/11/2026",
+        "quota_id": "XY-DMM",
+        "Number of interviews": 3
+    },
+    {
         "InterviewDate": "18/02/2024",
         "quota_id": "AI-DEL",
         "Number of interviews": 2
@@ -15153,6 +15218,36 @@ let interview_statistics_asq = `[
     {
         "InterviewDate": "18/11/2025",
         "quota_id": "WY-MCT",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "18/11/2026",
+        "quota_id": "FZ-ADD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "18/11/2026",
+        "quota_id": "FZ-AMM",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "18/11/2026",
+        "quota_id": "FZ-BEY",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "18/11/2026",
+        "quota_id": "FZ-DOH",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "18/11/2026",
+        "quota_id": "FZ-IST",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "18/11/2026",
+        "quota_id": "IX-JAI",
         "Number of interviews": 2
     },
     {
