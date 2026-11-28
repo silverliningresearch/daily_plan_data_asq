@@ -4,7 +4,7 @@ let completed_by_interviewer_arr = `[
         "Interview_Date": "2026-10-07",
         "completed_interviews": 3,
         "Surveys": "ASQ Arrivals",
-        "download_time": "28-11-2026 15:56:15"
+        "download_time": "28-11-2026 17:09:11"
     },
     {
         "InterviewerID": "bfaure",
@@ -82,6 +82,12 @@ let completed_by_interviewer_arr = `[
         "InterviewerID": "cruffenach",
         "Interview_Date": "2026-11-18",
         "completed_interviews": 16,
+        "Surveys": "ASQ Arrivals"
+    },
+    {
+        "InterviewerID": "cruffenach",
+        "Interview_Date": "2026-11-28",
+        "completed_interviews": 1,
         "Surveys": "ASQ Arrivals"
     },
     {
